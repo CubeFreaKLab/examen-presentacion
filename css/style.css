@@ -1,0 +1,44 @@
+body {
+    background-color: #e2cb92
+}
+
+img {
+    width: 300px;
+    background-color: #494d4b;
+    padding: 10px;
+}
+
+ul {
+    text-align: center;
+}
+
+center {
+    background-color: #b3a176;
+    margin: 180px 400px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 30px;
+}
+
+ul  {
+    font-size: 30px;
+    margin: 0px 0px 100px 0;
+}
+
+a {
+    font-size: 30px;
+    color: #312c20;
+}
